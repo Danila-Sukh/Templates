@@ -1,0 +1,11 @@
+.footer__adress {
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    width: 291px;
+    height: 13px;
+    text-decoration: none;
+}

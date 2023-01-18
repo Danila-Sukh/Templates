@@ -1,0 +1,12 @@
+.histiry__table{
+    width: 600px;
+    height: 320px;
+    display: grid;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 3;
+    margin-left: 65px;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}

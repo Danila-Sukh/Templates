@@ -1,0 +1,12 @@
+.histiry__title {
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    z-index: 4;
+    position: relative;
+}

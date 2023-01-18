@@ -1,0 +1,5 @@
+.info__back{
+    position: absolute;
+    right: 400px;
+    z-index: 8;
+}

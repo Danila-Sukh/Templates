@@ -1,0 +1,7 @@
+.histiry__figura{
+    background-image: url(/imege/Rectangle-5.svg);
+    position: absolute;
+    right: 350px;
+top: -50px;
+z-index: 1;
+}

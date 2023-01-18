@@ -1,0 +1,8 @@
+.footer_info{
+    width: 1086px;
+    margin: auto ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    display: grid;
+    padding-top: 60px;
+    height: 36px;
+}

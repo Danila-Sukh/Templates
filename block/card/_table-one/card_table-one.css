@@ -1,0 +1,9 @@
+.card_table-one {
+    width: 276px;
+    height: 180px;
+    background-color: #393F47;
+}
+
+.card_table-one:hover{
+    background-color: #C8A35F;
+}

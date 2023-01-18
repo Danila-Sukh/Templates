@@ -1,0 +1,10 @@
+.lang__writ{
+    padding-right: 10px;
+    text-decoration: none;
+    transition: all 200ms ease-in-out;
+    color: black;
+}
+
+.lang__writ:hover {
+    color: whitesmoke;
+  }

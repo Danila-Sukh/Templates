@@ -1,0 +1,84 @@
+@import url('./block/lang/lang.css');
+@import url('./block/header/header.css');
+@import url('./block/infa/infa.css');
+@import url('./block/lang/__writ/lang__writ.css');
+@import url('./block/body/body.css');
+@import url('./block/tel/tel.css');
+@import url('./block/mail/mail.css');
+@import url('./block/header/__info/header__info.css');
+@import url('./block/header/__logo/header__logo.css');
+@import url('./block/header/__gps/header__gps.css');
+@import url('./block/header/__logo/__logo-bort/header__logo-bort.css');
+@import url('./block/header/__nav/header__nav.css');
+@import url('./block/header/__img/header__img.css');
+@import url('./block/gps/gps.css');
+@import url('./block/about/about.css');
+@import url('./block/about/__services/about__services.css');
+@import url('./block/text/text.css');
+@import url('./block/text/__center/text__center.css');
+@import url('./block/text/__center-h1/text__center-h1.css');
+@import url('./block/text/__center-p/text__center-p.css');
+@import url('./block/more/more.css');
+@import url('./block/figure/figure.css');
+@import url('./block/info/info.css');
+@import url('./block/info/__img/info__img.css');
+@import url('./block/info/__text/info__text.css');
+@import url('./block/info/__button/info__button.css');
+@import url('./block/info/__osnov/info__osnov.css');
+@import url('./block/info/__car/info__car.css');
+@import url('./block/info/__imgs/info__imgs.css');
+@import url('./block/info/__palka/info__palka.css');
+@import url('./block/info/__next/info__next.css');
+@import url('./block/info/__back/info__back.css');
+@import url('./block/card/card.css');
+@import url('./block/card/_osnov/card_osnov.css');
+@import url('./block/card/__text/card__text.css');
+@import url('./block/card/__table/card__table.css');
+@import url('./block/card/_table-one/card_table-one.css');
+@import url('./block/card/__img/card__img.css');
+@import url('./block/card/__button/card__button.css');
+@import url('./block/card/__avatar/card__avatar.css');
+@import url('./block/card/__about/card__about.css');
+@import url('./block/histiry/histiry.css');
+@import url('./block/histiry/__osnov/histiry__osnov.css');
+@import url('./block/histiry/__title/histiry__title.css');
+@import url('./block/histiry/__text/histiry__text.css');
+@import url('./block/histiry/__figura/histiry__figura.css');
+@import url('./block/histiry/__table/histiry__table.css');
+@import url('./block/histiry/__table-info/histiry__table-info.css');
+@import url('./block/histiry/__table-number/histiry__table-number.css');
+@import url('./block/histiry/__table-this/histiry__table-this.css');
+@import url('./block/histiry/__table-dop/histiry__table-dop.css');
+@import url('./block/histiry/__table-car/histiry__table-car.css');
+@import url('./block/cards/cards.css');
+@import url('./block/footer/footer.css');
+@import url('./block/footer/_info/footer_info.css');
+@import url('./block/footer/__adress/footer__adress.css');
+@import url('./block/footer/__mail/footer__mail.css');
+@import url('./block/footer/__tel/footer__tel.css');
+@import url('./block/footer/__number/footer__number.css');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

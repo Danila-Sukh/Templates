@@ -1,0 +1,5 @@
+.infa{
+    background-color: #C8A35F;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

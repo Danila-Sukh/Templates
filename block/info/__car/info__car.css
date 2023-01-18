@@ -1,0 +1,6 @@
+.info__car{
+    position: absolute;
+    right: 600px;
+    top: 931px;
+    z-index: 8;
+}

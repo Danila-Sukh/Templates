@@ -1,0 +1,15 @@
+.info__text {
+    margin-left: 405px;
+    z-index: 9;
+    margin-top: 40px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    width: 445px;
+    position: relative;
+
+}

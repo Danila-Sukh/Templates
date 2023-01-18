@@ -1,0 +1,7 @@
+.card__table{
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 1104px;
+    height: 360px;
+    display: grid;
+}

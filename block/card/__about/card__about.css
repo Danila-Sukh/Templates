@@ -1,0 +1,11 @@
+.card__about {
+    color: white;
+    text-align: center;
+    margin-top: 23px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+}

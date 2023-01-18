@@ -1,0 +1,11 @@
+.text__center-h1 {
+    margin: auto;
+    text-align: center;
+    width: 777px;
+    height: 59px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+}

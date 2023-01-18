@@ -1,0 +1,12 @@
+.histiry__text {
+    width: 445px;
+    height: 179px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    z-index: 3;
+    position: relative;
+}

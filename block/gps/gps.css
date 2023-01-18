@@ -1,0 +1,13 @@
+.gps {
+    margin: auto;
+    color: white;
+    text-decoration: none;
+    width: 97px;
+    height: 16px;
+    padding-left: 13px;
+    transition: all 200ms ease-in-out;
+}
+
+.gps:hover{
+    color: yellow;
+}

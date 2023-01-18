@@ -1,0 +1,14 @@
+.about__services{
+    color: white;
+    text-decoration: none;
+    padding-right: 30px;
+    transition: all 200ms ease-in-out;
+}
+
+.about__services:last-of-type{
+    padding-right: 0px;
+}
+
+.about__services:hover{
+    color: yellow;
+}

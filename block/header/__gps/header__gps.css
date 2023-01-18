@@ -1,0 +1,6 @@
+.header__gps{
+    grid-template-columns: 160px 60px 25px 97px;;
+    display: grid;
+    grid-auto-rows: auto;
+    margin: auto;
+}

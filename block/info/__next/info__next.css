@@ -1,0 +1,11 @@
+.info__next{
+    position: absolute;
+    right: 400px;
+    top: 921px;
+    z-index: 7;
+    transition: all 200ms ease-in-out;
+}
+
+.info__next:hover{
+    color: white;
+}
